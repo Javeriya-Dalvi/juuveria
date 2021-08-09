@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juuveria
+- 👋 Hi, I’m Juveria Dalvi
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
