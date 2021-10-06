@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Juveria Dalvi
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+# 👋 Hi, I’m Juveria Dalvi
+### - 👀 I’m interested in Front-end development.
 - 🐦 Twitter : https://twitter.com/juveriia_?s=09
 - 🖥️ FEM : https://www.frontendmentor.io/profile/JuveriaD
 
