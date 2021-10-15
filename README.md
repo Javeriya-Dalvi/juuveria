@@ -1,5 +1,6 @@
-# 👋 Hi, I’m █▀▄ ░░█
-             █▄▀ █▄█
+# 👋 Hi, I’m 𝓓𝓙
+             
+ 
 ### - 👀 I’m Learning Front-end development.
 #### - 🐦 Twitter : https://twitter.com/juveriia_?s=09
 #### - 🌐 FEM : https://www.frontendmentor.io/profile/JuveriaD
