@@ -14,7 +14,7 @@
 - 📫 How to reach me: juveriadalvi4@gmail.com.
 - 🌐 FEM : https://www.frontendmentor.io/profile/JuveriaD
 
-#### Top Technologies
+#### Skills
 
 [![Sass Badge](https://img.shields.io/badge/-Sass-e0438d?style=for-the-badge&labelColor=black&logo=Sass&logoColor=ed006f)](https://github.com/JuveriaD/Newbie-Challenges) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
