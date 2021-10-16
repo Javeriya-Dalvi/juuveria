@@ -19,7 +19,7 @@
 [![Sass Badge](https://img.shields.io/badge/-Sass-e0438d?style=for-the-badge&labelColor=black&logo=Sass&logoColor=ed006f)](https://github.com/JuveriaD/Newbie-Challenges) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 
-<img src="images/c0ff072376a9671377326632f1b14ca727360de35d4823d3749f44b6d8c43bb9.0.png" alt="Graduate 2021" />
+<img src="images/Dj.png" alt="Graduate 2021" />
 <!-- TODO: Make technologies links takes you to repositories -->
 
 ### Tools 
