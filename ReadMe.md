@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hii, I’m 𝓓𝓙.
 
 ![I'm so lonely broken image](https://media2.giphy.com/media/jMP2QCz8VUFnN3HeiW/giphy.gif?cid=790b761117a24b6bd874b4e06dc6264f379d7708e71183fc&rid=giphy.gif&ct=g)
-![img](/images/ghipy(1).gif)
+![img](/images/giphy%(1).gif)
 ## Learning <b>HTML5 | CSS3 | Sass | JavaScript | Nodejs | Git(version control)| MySQL | MongoDb</b> while doing projects from scratch. Started on - <i> July end.</i>
 
 ### 📌 Reach me out!
