@@ -11,7 +11,7 @@
 <!-- TODO: Add last video link -->
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: juveriadalvi4@gmail.com.
+- 🖋️ codepen: https://codepen.io/juveriad.
 - 🌐 FEM : https://www.frontendmentor.io/profile/JuveriaD
 
 #### Skills
