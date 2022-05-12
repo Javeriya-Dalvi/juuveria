@@ -4,7 +4,7 @@
 
 ### 📌 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=55b8e6&logo=twitter&logoColor=white&link=https://twitter.com/juveriia_)](https://twitter.com/juveriia_?s=09) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=095070&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juveria-dalvi-89276321a) [![Mail Badge](https://img.shields.io/badge/-Instagram-9e3666?style=flat&labelColor=b3105c&logo=instagram&logoColor=white)](https://instagram.com/javeriya_dalvi) [![Mail Badge](https://img.shields.io/badge/-Juveria_Dalvi-d6d4d4?style=flat&labelColor=8c130d&logo=gmail&logoColor=white)](mailto:juveriadalvi4@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=55b8e6&logo=twitter&logoColor=white&link=https://twitter.com/juveriia_)](https://twitter.com/juveriia_?s=09) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=095070&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javeriya-dalvi-89276321a) [![Mail Badge](https://img.shields.io/badge/-Instagram-9e3666?style=flat&labelColor=b3105c&logo=instagram&logoColor=white)](https://instagram.com/javeriya_dalvi) [![Mail Badge](https://img.shields.io/badge/-Juveria_Dalvi-d6d4d4?style=flat&labelColor=8c130d&logo=gmail&logoColor=white)](mailto:juveriadalvi4@gmail.com)
 
 <!-- TODO: Add last video link -->
 
